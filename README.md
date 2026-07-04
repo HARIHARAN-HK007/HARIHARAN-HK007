@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI ENGINEERS AND PYTHON DEVELOPERS
 - 📫 How to reach me - hariharan9132@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I will sleep heavily on morning ,so im a night eagle
+
 
 <!---
 HARIHARAN-HK007/HARIHARAN-HK007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
